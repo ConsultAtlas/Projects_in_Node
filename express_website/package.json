@@ -1,0 +1,17 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "simple website",
+  "main": "app.js",
+  "scripts": {
+    "test": "Zach"
+  },
+  "author": "Zach",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
