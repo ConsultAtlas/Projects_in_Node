@@ -4,7 +4,8 @@
   "description": "simple website",
   "main": "app.js",
   "scripts": {
-    "test": "Zach"
+    "test": "Zach",
+    "start": "node index.js"
   },
   "author": "Zach",
   "license": "ISC",
